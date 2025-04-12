@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :smiley:
 
 My name is Rafael,and I am a fullstack developer becuase the passionate for code is amazing! Learning and make projects with HTML, CSS, JavaScript, Tailwind, React and Node.js. I intend to evolve every day by developing great projects with new technologies.
 
@@ -12,9 +12,9 @@ This is the space where i spent most of my time creating and analisying codes!
 - <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo"/>
 <br>
-Contacts:
+Connect with me:
 <br>
 <br>
-  <a href="https://www.linkedin.com/in/rafael-pisani-dias/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lkdin-logo"/></a>
+<a href="https://www.linkedin.com/in/rafael-pisani-dias/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lkdin-logo"/></a>
 
 
