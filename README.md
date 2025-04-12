@@ -15,6 +15,6 @@ This is the space where i spent most of my time creating and analisying codes!
 Contacts:
 <br>
 <br>
-  <a target="_blank" href="https://www.linkedin.com/in/rafael-pisani-dias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lkdin-logo"/></a>
+  <a href="https://www.linkedin.com/in/rafael-pisani-dias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lkdin-logo" target="_blank" rel="noopener noreferrer"/></a>
 
 
