@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Rafaelpidias/Rafaelpidias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rafael,and I am a fullstack developer becuase the passionate for code is amazing! Learning and make projects with HTML, CSS, JavaScript, Tailwind, React and Node.js. I intend to evolve every day by developing great projects with new technologies.
 
-Here are some ideas to get you started:
+This is the space where i spent most of my time creating and analisying codes!
+<br>
+<br>
+- <img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+- <img src="https://img.shields.io/badge/CSS-0000CD?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo"/>
+- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tl-logo"/>
+- <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
+- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo"/>
+<br>
+Contacts:
+<br>
+<br>
+  <a target="_blank" href="https://www.linkedin.com/in/rafael-pisani-dias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lkdin-logo"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
