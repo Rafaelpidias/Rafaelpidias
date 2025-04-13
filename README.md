@@ -19,5 +19,6 @@ Connect with me:
 <br>
 <br>
 [![Rafael stats](https://github-readme-stats.vercel.app/api?username=Rafaelpidias&rand=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafael Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelpidias)](https://github.com/anuraghazra/github-readme-stats)
 
 
