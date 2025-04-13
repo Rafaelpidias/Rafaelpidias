@@ -18,7 +18,7 @@ Connect with me:
 <a href="https://www.linkedin.com/in/rafael-pisani-dias/" target="_blank" rel="noopener noreferrer"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="lkdin-logo"/></a>
 <br>
 <br>
-[![Rafael stats](https://ibb.co/PG5Hxn7q)
+[![Rafael stats](https://github-readme-stats.vercel.app/api?username=Rafaelpidias)](https://github.com/anuraghazra/github-readme-stats)
 [![Rafael Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelpidias)](https://github.com/anuraghazra/github-readme-stats)
 
 
