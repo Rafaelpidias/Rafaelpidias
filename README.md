@@ -1,6 +1,6 @@
 ## Hi there :smiley:
 
-My name is Rafael,and I am a fullstack developer becuase the passionate for code is amazing! Learning and make projects with HTML, CSS, JavaScript, Tailwind, React and Node.js. I intend to evolve every day by developing great projects with new technologies.
+My name is Rafael,and I am a fullstack developer becuase the passionate for code is amazing! Learning and make projects with HTML, CSS, JavaScript, Tailwind, React and Node.js. I intend to improve myself every day by developing great projects with new technologies.
 
 This is the space where i spent most of my time creating and analisying codes!
 <br>
